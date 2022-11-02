@@ -1,0 +1,24 @@
+{
+  "name": "prototypegithubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HGuzman-Soto/prototypeGithubActions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HGuzman-Soto/prototypeGithubActions/issues"
+  },
+  "homepage": "https://github.com/HGuzman-Soto/prototypeGithubActions#readme",
+  "dependencies": {
+    "@octokit/auth-app": "^4.0.7",
+    "@octokit/core": "^4.1.0",
+    "dotenv": "^16.0.3"
+  }
+}
